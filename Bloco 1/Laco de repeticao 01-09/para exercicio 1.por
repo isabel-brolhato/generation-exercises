@@ -26,7 +26,7 @@ programa
 			}
 			mdsal = sumsal / 20
 			mdf = sumf / 20
-			porc = (maior*100) / 20
+			porc = (porc*100) / 20
 			escreva("\nO salário médio é: ", mdsal)
 			escreva("\nO número médio de filhos é: ", mdf)
 			escreva("\nO valor do maior salário é: ", maior)
@@ -39,7 +39,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 263; 
+ * @POSICAO-CURSOR = 453; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
