@@ -1,4 +1,8 @@
 //Lista 1 exercício 4
+/*
+ * Escreva  um programa que leia três números inteiros e positivos (A, B, C) e calcule a seguinte expressão:  
+ * D=R+S/2, onde R=(A+B)² e S=(B+C)²
+ */
 
 programa
 {
@@ -24,7 +28,7 @@ escreva("A expressão é igual a:",D)
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 21; 
+ * @POSICAO-CURSOR = 430; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
