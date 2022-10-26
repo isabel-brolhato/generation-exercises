@@ -1,62 +1,69 @@
 /*Estilos da página index.html*/
+body{
+   background-color: rgb(245, 212, 251);
+}
+
+h1, h2{
+   color: rgb(124, 79, 165);
+}
+
 .center {
-    text-align: center;
- }
- 
- .justify{
-    text-align: justify;
- }
- 
- .container {
-    display: flex;
-    flex-flow: row;
-    justify-content: center;
-    align-items: center;
- }  
- 
- #menu li {
-    display: inline;
-    padding: 15px;
-    
- }
- 
- #menu li a {
-    text-decoration: none;
-    color: #546de5;
-    font-size: 20px;
- }
- 
- #menu li a:hover {
-    color: grey;
- }
- 
- .p-30 {
-    padding: 30px;
- }
- 
- .br-50 {
-    border-radius: 50%;
- }
- 
- .wh-300{
-    width: 300px;
-    height: 300px;
- 
- }
- 
- .tm-social {
-    width: 50px;
-    height: 50px;
- }
- 
- .mb-50{
-    margin-bottom: 50px;
- }
- 
- 
- 
- /*Estilos da página contato.html*/
- 
- .ml-50 {
-    margin-left: 50px;
- }
+   text-align: center;
+}
+
+.justify{
+   text-align: justify;
+}
+
+.container {
+   display: flex;
+   flex-flow: row;
+   justify-content: center;
+   align-items: center;
+}  
+
+#menu li {
+   display: inline;
+   padding: 15px;
+   
+}
+
+#menu li a {
+   text-decoration: none;
+   color: rgb(56, 192, 183);
+   font-size: 20px;
+}
+
+#menu li a:hover {
+   color: grey;
+}
+
+.p-30 {
+   padding: 30px;
+}
+
+.br-50 {
+   border-radius: 50%;
+}
+
+.wh-300{
+   width: 300px;
+   height: 300px;
+
+}
+
+.tm-social {
+   width: 50px;
+   height: 50px;
+}
+
+.mb-50{
+   margin-bottom: 50px;
+}
+
+
+/*Estilos da página contato.html*/
+
+.ml-50 {
+   margin-left: 50px;
+}
